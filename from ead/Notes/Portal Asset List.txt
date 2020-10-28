@@ -1,0 +1,36 @@
+Level
+-Portal Rock (3 variation) (#14 Circular flat ish rock)
+-Pillar (5 variations) (cylindrical/squareIsh) (#14 blocks on far left and right) 
+-Stair (3 variations) (rock plates looking) (#14 ref)
+-Grass (3 variation) 
+-Grass (3 variation) (one with glowy top, lime bright green like #13)
+-Rocks (3 variations) (square ish or normal type circular ish) (#13)
+-Glowing Rocks (2 variation) (Pointy) (#11)
+-Torch (top, Lower part) (#13)
+
+
+Vfx
+-Debris (floating, green, flying, #14)
+-Fog (#12)
+-Fire (for torch)
+-Portal Cell Smoke 
+-Portal Energy Orb
+-Portal Illuminating
+-Debris coming in
+
+
+
+Lighting
+- Point Light 
+
+
+Image Effects
+-Vignette
+-Depth Of Field 
+-Bloom
+-
+
+
+
+
+

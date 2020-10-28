@@ -1,0 +1,17 @@
+Level
+-Pillar Circle (4 variations) [Scene, #17, #7]
+-Torch/Staff maybe [#17] 
+-Ground Rock (5 variations) [scene]
+-Tree [#10, scene] (2 variations) Build 1 base in Maya, & 1 completely in Zbrush
+-Ancient Portal Rock (4 variations) [#15, #10]
+-Mini Ancient Portal Rock (4 variations) [#15, #10]
+-Stairs (4 variations) (#15,#10) (round)
+-Mushoom Glowies (#15, #8)(3 variations)
+-Ghost ball particle shape holder 
+
+Vfx
+-Fireflies (coming from below/or attach to the mouse) (new texture)
+-Parallel (universe type portal, looking into a different world) #17
+-Ghost Ball (soul eater reference Google Plz)
+-Glowy Hooman on each side
+-We will add more as we go 

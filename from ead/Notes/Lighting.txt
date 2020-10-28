@@ -1,0 +1,38 @@
+#Color Theory
+
+https://lifehacker.com/learn-the-basics-of-color-theory-to-know-what-looks-goo-1608972072
+https://www.realsimple.com/beauty-fashion/clothing/shopping-guide/color-matching#analogous
+
+
+#Unity
+
+How to get Good Graphics in Unity (Using Post Processing Stack)
+https://www.youtube.com/watch?v=owZneI02YOU
+
+How to use your Post Processing Stack in Unity
+https://www.youtube.com/watch?v=a0OQvWAPeuo&t=1s
+
+Linear VS Gamma Lighting
+http://www.kinematicsoup.com/news/2016/6/15/gamma-and-linear-space-what-they-are-how-they-differ
+https://docs.unity3d.com/Manual/LinearRendering-LinearOrGammaWorkflow.html
+https://forum.allegorithmic.com/index.php?topic=13168.0
+
+HDR MAP Source:
+https://gumroad.com/joost (Scroll down)
+https://hdrihaven.com/hdris/
+https://gumroad.com/l/yXXrj
+https://www.assetstore.unity3d.com/en/#!/content/61217
+
+Cube Map Source:
+https://www.assetstore.unity3d.com/en/#!/content/22252 (Import only the tiff folder
+https://www.assetstore.unity3d.com/en/#!/content/18353 (Import only the texture folder with maps)
+
+Deffered Vs Forward
+https://electronicmeteor.wordpress.com/2013/02/27/some-screenshots-of-forward-rendering/
+https://www.gamasutra.com/blogs/PiotrSobolewski/20160531/273912/How_To_Choose_Between_Forward_or_Deferred_Rendering_Paths_in_Unity.php
+
+
+
+
+
+
