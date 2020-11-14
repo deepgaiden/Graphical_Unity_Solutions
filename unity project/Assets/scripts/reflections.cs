@@ -19,13 +19,19 @@ public class reflections : MonoBehaviour
     public float m_ReflectionFactor = 0.5f;
 
     public Material m_FloorMaterial;
-    public RenderTexture m_RenderTarget;
+    public Shader Shader_crop;
+    private RenderTexture m_RenderTarget;
 
     // Start is called before the first frame update
     void Start()
     {
         GameObject reflectionCameraGo = new GameObject("ReflectionCamera");
         m_ReflectionCamera = reflectionCameraGo.AddComponent<Camera>();
+        
+        //Setting clipping mask script
+        reflectionCameraGo.AddComponent<clipping_mesh>();
+        reflectionCameraGo.GetComponent<clipping_mesh>().EffectShader = Shader_crop;
+
 
         Behaviour berrave = (Behaviour)m_ReflectionCamera;
         berrave.enabled = false;

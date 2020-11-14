@@ -471,7 +471,7 @@ MonoBehaviour:
   m_ReflectionPlane: {fileID: 467411432}
   m_ReflectionFactor: 0.5
   m_FloorMaterial: {fileID: 2100000, guid: 9b5aa505326e2b44d945d1f1f2bbe011, type: 2}
-  m_RenderTarget: {fileID: 0}
+  Shader_crop: {fileID: 4800000, guid: 257120eea82594f4692b7db38b9bf9ca, type: 3}
 --- !u!1001 &2753210427539292272
 PrefabInstance:
   m_ObjectHideFlags: 0
