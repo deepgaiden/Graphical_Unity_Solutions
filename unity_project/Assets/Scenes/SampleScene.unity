@@ -214,7 +214,7 @@ Transform:
   m_GameObject: {fileID: 467411432}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -3.7936401, y: 0.1, z: 6.9}
-  m_LocalScale: {x: 102.83, y: 102.83, z: 102.83}
+  m_LocalScale: {x: 10000, y: 10000, z: 10000}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
@@ -423,7 +423,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.3
-  far clip plane: 1000
+  far clip plane: 100000
   field of view: 60
   orthographic: 0
   orthographic size: 5
@@ -469,7 +469,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_ReflectionPlane: {fileID: 467411432}
-  m_ReflectionFactor: 0.5
+  m_ReflectionFactor: 1
   m_FloorMaterial: {fileID: 2100000, guid: 9b5aa505326e2b44d945d1f1f2bbe011, type: 2}
   Shader_crop: {fileID: 4800000, guid: 257120eea82594f4692b7db38b9bf9ca, type: 3}
 --- !u!1001 &2753210427539292272
