@@ -110,7 +110,7 @@ return Vector3.Distance(point, target);
 
 And now, to solve the problem we just need to reduce this value. For that we will use gradient descent, that is a numeric method to reduce an output changing a set of inputs. There are other methods, even analytical ones as we rave a describing equation. Further research is needed. But, for now, we will see the numeric approach.
 
-This method just look at the gradient of the given function. Then it moves in the direction to which the function output decreases, that is, where the derivative is negative. But there are times where the derivative isn't in reach. Then we sample points around the one we are analyzing to see the direction where the error function decreases. For that we use:
+Thiss method just look at the gradient of the given function. Then it moves in the direction to which the function output decreases, that is, where the derivative is negative. But there are times where the derivative isn't in reach. Then we sample points around the one we are analyzing to see the direction where the error function decreases. For that we use:
 
 <div style='text-align:center'>
 
@@ -132,6 +132,12 @@ $
 
 Where `L` is the Learning rate.
 
+# Active Ragdoll physics
+This technique is capable of creating physics based procedural animations.
+This is done by making the mesh obey the laws of motion, with collisions support.
+Not just that, but the bones of our character react to impacts and forces.
+And, besides this, it is possible to make internal forces to move the character in the environment.
+Such approach is known as physic based animations.
 
 
 

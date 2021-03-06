@@ -26,10 +26,10 @@ public class IK_manager : MonoBehaviour
     {
         
         // Acquiring a list of scripts
-        RobotJoint[] JointScript = new RobotJoint[Leg.Length];
+        Robotjoint[] JointScript = new Robotjoint[Leg.Length];
         for (int i = 0; i < Leg.Length; i++)
         {
-            JointScript [i] = Leg[i].GetComponent ("RobotJoint") as RobotJoint;
+            JointScript [i] = Leg[i].GetComponent ("RobotJoint") as Robotjoint;
         }
 
         // Applying the rotation
