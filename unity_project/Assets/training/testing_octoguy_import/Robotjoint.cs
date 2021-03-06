@@ -11,16 +11,21 @@ public class Robotjoint : MonoBehaviour
     {
         StartOffset = transform.localPosition;
         Axis = new Vector3(1,1,1);
+        GetEndPoint();
     }
 
     void FixedUpdate()
     {
-        Debug.Log(this.transform.localPosition.x);
+        // Debug.Log(this.transform.localPosition.x);
     }
 
     public Vector3 GetEndPoint()
     {
-        var tx :Transform[] = GetComponentsInChildren(Transform);
+        Transform[] transform_in_children = GetComponentsInChildren<Transform>();
+        Debug.Log(transform_in_children.Length);
+        Debug.Log(transform_in_children[0].position.x);
+        Debug.Log(this.transform.position.x);
+
         Vector3 EndPoint = new Vector3(0,0,0);
         return EndPoint;
     }
